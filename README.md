@@ -3,7 +3,7 @@
 
 ---
 
-🛠 **Мой стек:**
+### 🛠 **Мой стек:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -17,14 +17,14 @@
 
 ---
 
-📈 **Моя статистика:**
+### 📈 **Моя статистика:**
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=artkzmin&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=artkzmin&layout=compact&theme=radical)
 
 ---
 
-📫 **Связаться со мной:**
+### 📫 **Связаться со мной:**
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artkzmin)
 
