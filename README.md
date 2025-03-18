@@ -1,5 +1,5 @@
 ### Привет! 👋 Меня зовут Артём
-Я backend-разработчик с опытом в FastAPI, PostgreSQL, SQLAlchemy, Docker, Celery и CI/CD. Умею строить масштабируемую архитектуру веб-приложений и настраивать автоматизацию развертывания с GitLab CI.
+Я Python Backend-разработчик с опытом в FastAPI, Flask, PostgreSQL, Docker и CI/CD. Умею строить масштабируемую архитектуру веб-приложений и настраивать автоматизацию развертывания с GitLab CI.
 
 ---
 
@@ -7,6 +7,7 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -26,9 +27,9 @@
 
 ### 📫 **Связаться со мной:**
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artkzmin)
+**Telegram**: [@artkzmin](https://t.me/artkzmin)
 
-✉️ artkzmin@gmail.com
+**Email**: artkzmin@gmail.com
 
 ---
 
